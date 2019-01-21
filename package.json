@@ -1,0 +1,25 @@
+{
+  "name": "ggj-search-group",
+  "version": "1.0.0",
+  "author": "pjf <panjf@gegejia.com>",
+  "description": "格格家管理后台基于查询表单组件",
+  "main": "lib/index.js",
+  "private": false,
+  "license": "MIT",
+  "scripts": {
+    "build": "babel src --out-dir lib"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.0.0",
+    "babel-core": "^6.14.0",
+    "babel-loader": "^6.2.5",
+    "babel-plugin-istanbul": "^2.0.1",
+    "babel-preset-es2015": "^6.14.0",
+    "babel-preset-react": "^6.24.1",
+    "antd": "^3.12.3",
+    "prop-types": "^15.6.2",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0",
+    "react-scripts": "2.1.3"
+  }
+}
