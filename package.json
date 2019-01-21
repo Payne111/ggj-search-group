@@ -2,7 +2,7 @@
   "name": "ggj-search-group",
   "version": "1.0.0",
   "author": "pjf <panjf@gegejia.com>",
-  "description": "格格家管理后台基于查询表单组件",
+  "description": "格格家管理后台基于antd查询表单组件",
   "main": "lib/index.js",
   "private": false,
   "license": "MIT",
